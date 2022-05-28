@@ -1,0 +1,115 @@
+﻿body {
+}
+
+table {
+    border: 2px solid orange;
+    padding: 30px;
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+
+.theading {
+    text-align: center;
+    background-color: darkgoldenrod;
+    color: antiquewhite;
+}
+
+
+input[type=text] {
+    width: 250px;
+    border: 1px solid orange;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.inbox {
+    width: 250px;
+    border: 1px solid orange;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.dob {
+    width: 250px;
+    border: 1px solid orange;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+/*radio {
+    padding: 10px;
+
+    font-size: 10px;
+}*/
+
+input[type=submit] {
+    width: 45%;
+    border: 1px solid grey;
+    padding: 6px;
+    background-color: red;
+    color: white;
+    font-size: 10px;
+}
+
+input[type=button] {
+    border: 1px solid grey;
+    padding: 6px;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 10px;
+}
+
+textarea {
+    width: 240px;
+    height: 30px;
+    border: 1px solid orange;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.DeafultForm {
+    margin-left: 180px;
+    margin-top: 100px;
+}
+
+caption {
+    font-size: 35px;
+    color: crimson;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+p {
+  
+    color: orangered;
+    font-size: 40px;
+}
+
+.Createform {
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+div.status-message {
+    width: 600px;
+   /* background: gainsboro;*/
+    color: red;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.readonly-data {
+    border: 1px solid gray;
+}
+
+.defUser {
+    margin-top: 100px;
+}
+
